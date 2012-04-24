@@ -1,22 +1,9 @@
 /**
- * <pre>
  * glowme.js JQuery plug=in for adding a CSS glow effect
- * 
- * Syntax:
- * $.GlowMe.glow($("#elem"),0,230,230,.8);
- *     where 0,230,230,.8 is the rgba()
- * TODO:    
- * - Add more configuration options
- * - Add more browser support (IE)
- * - Add a dynamic glow option (grow and shrink length)
- * - Add a flicker call (toggle's glow on and off with setInterval).
- * </pre>
- * 
  **/
 (function($){
 	var GlowMe = function(){};
 	GlowMe.prototype = {
-			// TODO: add more configuration options and pass them in as a map
 			glow:function(elem,r, g, b, a){
 				var c;
 				if(elem){
