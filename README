@@ -1,0 +1,9 @@
+
+A simple Jquery plugin for adding glow to DOM elements.
+
+Syntax:
+
+$.GlowMe.glow($("#elem"),0,230,230,.8);
+
+where 0,230,230,.8 is the rgba()
+
