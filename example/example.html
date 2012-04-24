@@ -1,0 +1,15 @@
+<html>
+ <head>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="../glowme.js"></script>
+  <script>
+    function test(){
+      $.GlowMe.glow($("#elem"),0,230,230,.8,{'time':10000,'flicker':1000});
+      $("#elem").val();	
+    }
+  </script>
+ </head>
+ <body onLoad="test()">
+ <input type="text" value="test" id="elem"/>
+ </body>
+</html>
