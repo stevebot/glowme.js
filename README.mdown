@@ -10,18 +10,6 @@ glowme.js
 ## And how you use it...
 
 glowme.js is a JQuery plugin and requires JQuery to be sourced, before glowme.js is sourced and initialized into the page.
-glowme.js
-========
-
-**A JQuery plugin for adding a CSS glow effect to HTML elements that doesn't blow!**
-
-     Ever need a CSS glow that doesn't blow? glowme.js has got your back! With multiple glow effect glowme.js is easy to use
-     and configurable. Let the glow begin!
-
-
-## And how you use it...
-
-glowme.js is a JQuery plugin and requires JQuery to be sourced, before glowme.js is sourced and initialized into the page.
 
 - Code example for adding CSS glow to an element on a hover over:
 
