@@ -3,9 +3,10 @@ glowme.js
 
 **A JQuery plugin for adding a CSS glow effect to HTML elements that doesn't blow!**
 
-     Ever need a CSS glow that doesn't blow? glowme.js has got your back! With multiple glow effect glowme.js is easy to use
-     and configurable. Let the glow begin!
+Ever need a CSS glow that doesn't blow? glowme.js has got your back! With multiple glow effect glowme.js is easy to use 
+and configurable. Let the glow begin!
 
+ [Github Preview](http://stevebot.github.com/glowme.js/)
 
 ## And how you use it...
 
