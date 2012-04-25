@@ -46,17 +46,5 @@ See the examples folder for an example of adding a flicker to an input field. Fe
 ## Demos
 
 - codedforyou - http://www.codedforyou.com
-Code example for adding CSS glow to an element on a hover over:
-'''
-$(document).ready(function(){
-			$(".hero-unit").each(function(){
-				$(this).hover(function(e){$.GlowMe.glow($("#nextBtn"), 0,230,230, .8);}, function(e){$.GlowMe.unglow($("#nextBtn"));});
-			});
-});
-'''
 
-Add a flicker:
-'''
-$.GlowMe.glow($("#elem"),0,230,230,.8,{'time':10000,'flicker':1000});
-'''
 
